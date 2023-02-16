@@ -12,7 +12,7 @@
     <script>
         function valorEncapsulado(n) {
             let local = n;
-            return () => local;
+            return () => local++;
         }
         let valorUno = valorEncapsulado(1);
         let valorDos = valorEncapsulado(2);
