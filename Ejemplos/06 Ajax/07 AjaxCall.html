@@ -39,21 +39,31 @@
                 console.log("request sent succesfully");
             });
             return promiseObj;
-        } document.getElementById("userDetails").addEventListener("click", function () {
+        }
+
+        document.getElementById("userDetails").addEventListener("click", function () {
             // git hub url to get btford details
             var userId = document.getElementById("userId").value;
             var URL = "https://api.github.com/users/" + userId;
             makeAjaxCall(URL, "GET").then(processUserDetailsResponse, errorHandler);
-        }); document.getElementById("repoList").addEventListener("click", function () {
+        });
+
+        document.getElementById("repoList").addEventListener("click", function () {
             // git hub url to get btford details
             var userId = document.getElementById("userId").value;
             var URL = "https://api.github.com/users/" + userId + "/repos";
             makeAjaxCall(URL, "GET").then(processRepoListResponse, errorHandler);
-        }); function processUserDetailsResponse(userData) {
+        });
+
+        function processUserDetailsResponse(userData) {
             console.log("render user details", userData);
-        } function processRepoListResponse(repoList) {
+        }
+
+        function processRepoListResponse(repoList) {
             console.log("render repo list", repoList);
-        } function errorHandler(statusCode) {
+        }
+
+        function errorHandler(statusCode) {
             console.log("failed with status", status);
         }
     </script>
