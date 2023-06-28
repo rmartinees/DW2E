@@ -1,1 +1,0 @@
-[{"campo":"\"ALFALFA\"","angulo":"32"}]
