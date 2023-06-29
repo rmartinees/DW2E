@@ -1,1 +1,1 @@
-[{"campo":"ALFA","angulo":"4", "foto":"http://www.elferre.com/img/instalaciones1.jpg"}]
+[{"campo":"ALFA","angulo":"14", "foto":"https://www.alfarc.es/images/Aerea2.JPG", "foto1":"http://www.elferre.com/img/instalaciones1.jpg"}]
