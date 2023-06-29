@@ -1,1 +1,1 @@
-[{"campo":"ALFALFA buena","angulo":"2", "foto":"http://www.elferre.com/img/instalaciones1.jpg"}]
+[{"campo":"ALFALFA buena","angulo":"0", "foto":"http://www.elferre.com/img/instalaciones1.jpg"}]
