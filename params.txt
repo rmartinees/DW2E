@@ -1,1 +1,1 @@
-[{"campo":"ALFA","angulo":"3","tkn":"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" "foto":"https://www.alfarc.es/images/Aerea2.JPG", "foto1":"http://www.elferre.com/img/instalaciones1.jpg"}]
+[{"campo":"ALFA","angulo":"3","tkn":"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", "foto":"https://www.alfarc.es/images/Aerea2.JPG", "foto1":"http://www.elferre.com/img/instalaciones1.jpg"}]
