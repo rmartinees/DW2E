@@ -1,1 +1,1 @@
-[{"campo":"\"ALFALFA buena\"","angulo":"44"}]
+[{"campo":"\"ALFALFA buena\"","angulo":"4"}]
